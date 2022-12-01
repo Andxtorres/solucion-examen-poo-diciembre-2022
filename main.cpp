@@ -14,7 +14,7 @@ int main(){
         switc(opcion){
             case 1:
                 string metodoDePago;
-                cout<<"Dame el metodo de pago"<<endl;
+                cout<<"Dame el método de pago"<<endl;
                 cin>>metodoDePago;
                 string comprador;
                 cout<<"Dame el comprador"<<endl;
